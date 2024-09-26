@@ -2,4 +2,4 @@
 
 # A repo for mhub-interns
 
-and everybody
+# Bright Yanchirah
